@@ -1,0 +1,64 @@
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\a-servis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\диспетчер задач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\диспетчер пзадач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A-Servis\source\repos\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\лабы\Системы\диспетчер задач_OS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
